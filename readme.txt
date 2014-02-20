@@ -1,7 +1,7 @@
 === Gallery Plugin ===
 Contributors: Muneeb
 Donate link: http://muneeb.me/wordpress-slider-plugin/
-Tags: gallery,foto,admin, album, best gallery plugin, best portfolio plugin, comments, filterable gallery, filterable portfolio, gallery, gallery album, gallery bank, gallery wordpress plugin, google, grid gallery, html5 mp3 player, html5 mp4 player, image, image album, image slider, images, links, media, page, pagination gallery, pagination portfolio, photo album, photo albums, photo gallery, Photo Slider, photos, pictures, plugin, portfolio, portfolio gallery, portfolio wordpress plugin, Post, posts, responsive gallery, seo image, slideshow, thumbnails, twitter, videos, widget, wordpress gallery plugin, wordpress portfolio plugin, wp gallery, wp gallery plugin
+Tags: gallery,foto,admin, album, best gallery plugin, best portfolio plugin, comments, filterable gallery, filterable portfolio, gallery, gallery album, slider, gallery wordpress plugin, google, grid gallery, html5 mp3 player, html5 mp4 player, image, image album, image slider, images, links, media, page, pagination gallery, pagination portfolio, photo album, photo albums, photo gallery, Photo Slider, photos, pictures, plugin, portfolio, portfolio gallery, portfolio wordpress plugin, Post, posts, responsive gallery, seo image, slideshow, thumbnails, twitter, videos, widget, wordpress gallery plugin, wordpress portfolio plugin, wp gallery, wp gallery plugin
 Requires at least: 3.0
 Tested up to: 3.8
 Stable tag: 1.0
