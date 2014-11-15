@@ -1,7 +1,7 @@
 === WordPress Gallery Plugin ===
 Contributors: Muneeb
 Donate link: http://rocketplugins.com/wordpress-gallery-plugin/
-Tags: gallery,foto, album, best gallery plugin, best portfolio plugin, comments, filterable gallery, filterable portfolio, gallery, gallery album, slider, gallery wordpress plugin, google, grid gallery, html5 mp3 player, html5 mp4 player, image, image album, image slider, images, links, media, page, pagination gallery, pagination portfolio, photo album, photo albums, photo gallery, photo slider, photos, pictures, plugin, portfolio, portfolio gallery, portfolio wordpress plugin, Post, posts, responsive gallery, seo image, slideshow, thumbnails, twitter, videos, widget, wordpress gallery plugin, wordpress portfolio plugin, wp gallery, wp gallery plugin,lightbox, rocket plugins, rocket
+Tags: gallery,foto, album, best gallery plugin, best portfolio plugin, comments, filterable gallery, filterable portfolio, gallery, gallery album, slider, gallery wordpress plugin, google, grid gallery, html5 mp3 player, html5 mp4 player, image, image album, image slider, images, links, media, page, pagination gallery, pagination portfolio, photo album, photo albums, photo gallery, photo slider, photos, pictures, plugin, portfolio, portfolio gallery, portfolio wordpress plugin, post, posts, responsive gallery, seo image, slideshow, thumbnails, twitter, videos, widget, wordpress gallery plugin, wordpress portfolio plugin, wp gallery, wp gallery plugin,lightbox, rocket plugins, rocket
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 1.0
