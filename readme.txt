@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WordPress gallery plugin is a responsive gallery plugin with focus on ease of use and best experience for visitors with any device.
+WordPress gallery plugin is a responsive gallery with focus on ease of use and best experience for visitors with any device.
 
 == Description ==
 
