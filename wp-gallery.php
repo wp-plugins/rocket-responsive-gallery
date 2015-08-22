@@ -2,8 +2,8 @@
 /**
 Plugin Name: Rocket Gallery Plugin
 Plugin URI: http://rocketplugins.com/wordpress-gallery-plugin/
-Description: WP Gallery is a responsive gallery plugin with focus on ease of use and best experience for visitors with any device.
-Version: 1.0
+Description: Rocket Gallery is a responsive gallery plugin with focus on ease of use and best experience for visitors with any device.
+Version: 1.1
 Author: Muneeb
 Author URI: http://rocketplugins.com/wordpress-gallery-plugin/
 License: GPLv2 or later
